@@ -1,0 +1,16 @@
+body {
+    background: url('../backg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#st{
+    color: white;
+    font-weight: bolder;
+}
+
+ul>li{
+    margin-top:4px;
+    margin-left:6px;
+}
